@@ -40,3 +40,12 @@ Language: Python
 Data Handling: Pandas / Openpyxl, Pyautogui
 
 Interface: Tally
+
+
+https://github.com/user-attachments/assets/bc0791d3-5b81-4afa-8dc7-0bb40cf7c136
+
+
+
+
+
+
