@@ -37,6 +37,6 @@ Audit-Ready: Since the data is pulled directly from the source file, the audit t
 **Tech Stack Used**
 Language: Python
 
-Data Handling: Pandas / Openpyxl
+Data Handling: Pandas / Openpyxl, Pyautogui
 
-Interface: Tally XML / Request API
+Interface: Tally
