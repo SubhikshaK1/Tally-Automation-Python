@@ -23,7 +23,7 @@ You don't need to be a coder to use this tool. Here is the "3-Step" workflow:
 
 Prepare your Data: Put your financial transactions into the svsltd.xlsx template.
 
-Run the Tool: Double-click the automation script.
+Run the Tool: Run the automation script.
 
 Check Tally: Open your Tally company; all your vouchers will be automatically populated, organized, and ready for review.
 
